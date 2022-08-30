@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "News in css",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+      "tags": [
+        "css",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "title": "tytuł",
+      "body": "Body contentu ",
+      "tags": [
+        "html",
+        "PHP",
+        "css"
+      ],
+      "id": 3
+    },
+    {
+      "title": "dasd gfdsgfsd",
+      "body": "fdsfsdfdsfdsfdsfsdfsdfds",
+      "tags": [
+        "news",
+        "learn"
+      ],
+      "id": 4
+    },
+    {
+      "title": "sads",
+      "body": "dsasad",
+      "tags": [
+        "learn"
+      ],
+      "id": 5
+    },
+    {
+      "title": "dsad",
+      "body": "dasdsadsadas dsad",
+      "tags": [],
+      "id": 6
+    },
+    {
+      "title": " sadasd sad",
+      "body": "dsa dsadsa",
+      "tags": [
+        "css",
+        "c++",
+        "c#"
+      ],
+      "id": 7
+    }
+  ]
+}
